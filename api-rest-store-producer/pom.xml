@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.rabbitmq</groupId>
-	<artifactId>api-rest-consumer</artifactId>
+	<artifactId>api-rest-store-producer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>api-rest-consumer</name>
-	<description>project using springboot to consumer message in a topic at RabbitMQ and persist in MongoDB</description>
+	<name>api-rest-store-producer</name>
+	<description>project using springboot to producer message in a topic at RabbitMQ</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
