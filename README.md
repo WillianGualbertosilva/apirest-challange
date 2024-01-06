@@ -1,2 +1,2 @@
-# apirest-challange
-Microservices with RabbitMQ  and persist in MongoDB
+# apirest-store
+Microservices simulates asynchronous orders in a store with RabbitMQ  and persist in MongoDB
